@@ -8,5 +8,5 @@ macro(set_and_check _var _file)
 endmacro()
 
 set (LYXINI_INCLUDE_DIR  "${PACKAGE_PREFIX_DIR}/include/")
-set (LYXNIN_INCLUDE_DIRS "${PACKAGE_PREFIX_DIR}/include/")
+set (LYXINI_INCLUDE_DIRS "${PACKAGE_PREFIX_DIR}/include/")
 set (LYXINI_ROOT_DIR     "${PACKAGE_PREFIX_DIR}")
